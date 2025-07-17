@@ -2,6 +2,7 @@
 This project is a simple and modern Voting UI Design built using HTML and CSS.
 
 ✨ Features
+
 🔐 Clean login page with Google & email option
 
 🧑‍🎨 Custom "VOTE" logo designed by me
